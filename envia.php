@@ -13,7 +13,7 @@ $enviaFormularioParaEmail = 'contato@bsgomes.com.br';
  
 $caixaPostalServidorNome = 'Mensagem do Site';
 $caixaPostalServidorEmail = 'valehipe@valehipe.com.br';
-$caixaPostalServidorSenha = 'Valehipe172157';
+$caixaPostalServidorSenha = '';
  
 /*** FIM - DADOS A SEREM ALTERADOS DE ACORDO COM SUAS CONFIGURAÇÕES DE E-MAIL ***/ 
  
